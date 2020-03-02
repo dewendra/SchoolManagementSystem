@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.ourVision{
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #065627;
+}
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}

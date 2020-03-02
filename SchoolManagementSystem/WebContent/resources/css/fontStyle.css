@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+#inner-banner-font{
+font-family: 'Titillium Web', sans-serif;
+font-size: 20px;
+font-weight: bold;
+color: #ffffff;
+}
+#banner-font{
+font-family: 'Titillium Web', sans-serif;	
+}
+#banner-fontStyle{
+font-family: 'Great Vibes', cursive;
+font-size: 20px;
+font-weight: bold;	
+}
+
+#header-font{
+	font-family: 'Titillium Web', sans-serif;
+	color: #546e7a;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#subHeader-font{
+	font-family: 'Titillium Web', sans-serif;
+}
+#paragraph-font{
+	font-family: 'Titillium Web', sans-serif;
+	color: #546e7a;
+	font-size: 18px;
+	text-decoration: none;
+}
+#subParagraph-font{
+	font-family: 'Titillium Web', sans-serif;
+}
+#webFont{
+	font-family: 'Titillium Web', sans-serif;
+}

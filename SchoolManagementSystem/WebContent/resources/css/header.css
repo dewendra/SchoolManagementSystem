@@ -1,0 +1,18 @@
+@charset "UTF-8";
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+	height: 25px;
+    width: 100%;
+	overflow: hidden;
+	
+  background-color:#ff6666;
+}
+.header a{
+	font-size: 14px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
